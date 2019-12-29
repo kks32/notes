@@ -4,6 +4,7 @@
 
   * [The art of story telling](art-story-telling.md)
   * [Kintsugi](kintsugi.md)
+  * [Scientific writing](scientific-writing.md)
 
 * Books
   * [Invisible women](books/invisible-women.md)
