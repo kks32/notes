@@ -2,4 +2,5 @@
 
 * Notes
 
-  * [Art of Story Telling](art-story-telling.md)
+  * [The art of story telling](art-story-telling.md)
+  * [Life](life.md)
