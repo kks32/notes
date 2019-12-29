@@ -8,5 +8,10 @@
 * In order for the truth the protaganist must learn on their journey, they need to start their journey as far away from the truth. The further away they are the more dramatic the story. 
 
 ## Nerdwriter -  Arrival: A Response To Bad Movies
+> https://www.youtube.com/watch?v=z18LY6NME1s
 
 * A true thing, poorly expressed, is a lie. - Stephen Fry.
+
+* The Kuleshov effect is the phenomenon in which the viewer derives meaning from two sequential shots. 
+
+* Communication is limited by perspective.
