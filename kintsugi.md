@@ -1,6 +1,4 @@
-# Life
-
-## Nerdwriter - Kintsugi: The Art of Embracing Damage
+# Nerdwriter - Kintsugi: The Art of Embracing Damage
 > https://www.youtube.com/watch?v=lT55_u8URU0
 
 * Kin Tsugi means Golden Joinery

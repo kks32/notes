@@ -3,7 +3,7 @@
 * Notes
 
   * [The art of story telling](art-story-telling.md)
-  * [Life](life.md)
+  * [Kintsugi](kintsugi.md)
 
 * Books
   * [Invisible women](books/invisible-women.md)
