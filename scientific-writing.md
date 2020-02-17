@@ -16,3 +16,20 @@
 
 1. Follow a grammatical subject as soon as possible with its verb.
 2. Articulate the action of every clause or sentence in its verb.
+
+
+## Writing grant applications
+
+[Put important thing in the first sentence](https://seliger.com/2017/08/21/grant-writing-help-series-put-important-thing-first-sentence/)
+
+"**Put the most important thing in the first sentence.**" If you learn how to do this, you’ll be ahead of 80% of grant writers and would-be grant writers. Most proposals prepared by other “grant writers” fail the first-sentence test.
+
+[5Ws and H: Who, what, where, when, why and how](https://seliger.com/2008/07/21/every-proposal-needs-six-elements-who-what-where-when-why-and-how-the-rest-is-mere-commentary/)
+
+A compelling proposal, even a highly technical one, needs to make an argument about why funding the proposal will lead to improvement innovations, breakthroughs, or improvements.
+
+Answering the why:
+* Why you are targeting what you are targeting?
+* Why you have decided on what you will do?
+* Why you will provide services in a particular area?
+
